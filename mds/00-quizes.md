@@ -30,3 +30,10 @@ Evaluating a CSS rule that targets an element directly (like `h1`) is generally 
 Therefore, the answer is:
 
 **`h1 { font-size: 16px }` is faster to evaluate.**
+
+- - - -
+
+![image](https://github.com/saidali-ibn-zafar/Website-Performance-Optimization/assets/120341849/1ea877cf-dedb-46ea-9812-39ac86c54b71)
+
+![image](https://github.com/saidali-ibn-zafar/Website-Performance-Optimization/assets/120341849/987cdd31-027c-482e-ba49-dea52d2d0699)
+
