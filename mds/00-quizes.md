@@ -37,3 +37,8 @@ Therefore, the answer is:
 
 ![image](https://github.com/saidali-ibn-zafar/Website-Performance-Optimization/assets/120341849/987cdd31-027c-482e-ba49-dea52d2d0699)
 
+![image](https://github.com/saidali-ibn-zafar/Website-Performance-Optimization/assets/120341849/60b51360-a285-411f-a226-f119c213c317)
+
+![image](https://github.com/saidali-ibn-zafar/Website-Performance-Optimization/assets/120341849/dd93f515-bad3-4928-ac10-e4d6ab47f80b)
+
+
