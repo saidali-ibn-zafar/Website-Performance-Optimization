@@ -43,4 +43,6 @@ Therefore, the answer is:
 
 ![image](https://github.com/saidali-ibn-zafar/Website-Performance-Optimization/assets/120341849/5cf11bce-5ad3-438c-b441-88291e3d493e)
 
+![image](https://github.com/saidali-ibn-zafar/Website-Performance-Optimization/assets/120341849/59beb1d2-e697-4044-aefa-f426a5d24980)
+
 
