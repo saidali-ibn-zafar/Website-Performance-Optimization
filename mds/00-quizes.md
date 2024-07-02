@@ -45,4 +45,17 @@ Therefore, the answer is:
 
 ![image](https://github.com/saidali-ibn-zafar/Website-Performance-Optimization/assets/120341849/59beb1d2-e697-4044-aefa-f426a5d24980)
 
+![image](https://github.com/saidali-ibn-zafar/Website-Performance-Optimization/assets/120341849/a30e67b6-1e6d-47d3-8ae4-124c221a6015)
+
+```html
+<p>Awesome page 
+  <script>
+    document.write(" with JavaScript ")
+  </script> 
+  is awesome
+</p>
+```
+
+The `document.write` function inserts the text " with JavaScript " directly into the HTML at the location where the script tag is placed.
+- - - -- 
 
