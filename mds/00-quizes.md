@@ -59,3 +59,84 @@ Therefore, the answer is:
 The `document.write` function inserts the text " with JavaScript " directly into the HTML at the location where the script tag is placed.
 - - - -- 
 
+# Script Loading Examples
+
+![image](https://github.com/saidali-ibn-zafar/Website-Performance-Optimization/assets/120341849/ef8a80b0-268b-41ac-a842-f40d08980f01)
+
+
+## Blocking Script
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Blocking Script Example</title>
+    <!-- Blocking script -->
+    <script src="blocking-script.js"></script>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is an example of a blocking script.</p>
+</body>
+</html>
+
+```
+
+## Inline Script
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Inline Script Example</title>
+    <!-- Inline script -->
+    <script>
+        console.log('This is an inline script.');
+    </script>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is an example of an inline script.</p>
+</body>
+</html>
+
+```
+
+## Async Script 
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Inline Script Example</title>
+    <!-- Inline script -->
+    <script>
+        console.log('This is an inline script.');
+    </script>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is an example of an inline script.</p>
+</body>
+</html>
+
+```
+
+# Descriptions
+
+## Blocking Script Example:
+
+- The script is loaded synchronously, which means the browser will stop parsing the HTML until the script is fetched and executed.
+- This can cause delays in rendering the rest of the HTML if the script takes time to load.
+
+## Inline Script Example:
+
+- The script is embedded directly in the HTML. It is executed immediately when the parser encounters it.
+- There are no additional HTTP requests for this script, but it can still delay rendering if it is complex or long.
+
+## Async Script Example:
+
+- The script is fetched asynchronously and executed as soon as it is available.
+- The HTML parsing and rendering continue without waiting for the script to load, improving page load performance.
+
+These examples demonstrate how different script loading strategies can impact the behavior and performance of a web page.
